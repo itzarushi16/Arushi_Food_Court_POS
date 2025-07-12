@@ -45,7 +45,7 @@ A simple Point of Sale (POS) application built with **Java Swing**. This GUI-bas
 ## 🧰 Requirements
 
 - Java JDK 8 or later  
-- NetBeans IDE *(recommended for GUI form editor)*  
+- NetBeans IDE (recommended for GUI form editor)
 - No third-party dependencies required
 
 ---
