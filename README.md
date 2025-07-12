@@ -1,4 +1,4 @@
-# 🧾 Billing POS System (Java Swing)
+# 🧾 Billing POS System 
 
 A simple Point of Sale (POS) application built with **Java Swing**. This GUI-based program mimics a billing system where food items can be added with a single click using image-based buttons. The system automatically calculates the total cost and updates the display in real time.
 
