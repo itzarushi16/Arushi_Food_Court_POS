@@ -5,7 +5,7 @@
 package simple_pos;
 
 /**
- *
+ * arushi alone
  * @author thear
  */
 public class Simple_POS {
