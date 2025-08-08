@@ -4,10 +4,7 @@ A simple Point of Sale (POS) application built with **Java Swing**. This GUI-bas
 
 ---
 
-## 📸 Screenshot
 
-
-![WhatsApp Image 2025-05-01 at 14 54 01_fb30b4f8](https://github.com/user-attachments/assets/e57d8ac0-328f-4d9c-9ad9-19cadfd6348a)
 
 
 
